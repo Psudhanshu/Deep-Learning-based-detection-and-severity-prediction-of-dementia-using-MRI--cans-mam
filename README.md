@@ -119,3 +119,6 @@ Medical imaging technologies like MRI provide critical diagnostic insights. Whil
 - **Nithin Kumar H G**
 - **Sudhanshu Pawar**
 
+## Poster
+![image](https://github.com/user-attachments/assets/1cc9a096-f0c0-4428-b5c0-859c33ad977d)
+
